@@ -1,0 +1,81 @@
+.bank-body{
+    background-color: rgb(158, 197, 182);
+}
+.bank-head{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 170%;
+    margin:0px;
+    padding-top: 30px;
+}
+.bb1{
+    display: flex;
+  flex-direction: row;
+  margin: 50px 70px 0px 70px;
+}
+.bb2{
+    display: flex;
+  flex-direction: row;
+  margin: 0px 70px 0px 70px;
+}
+.bb3{
+    display: flex;
+  flex-direction: row;
+  margin: 0px 70px 0px 70px;
+ 
+}
+.bb4{
+    display: flex;
+  flex-direction: row;
+  margin: 0px 70px 0px 70px;
+}
+.bb5{
+    display: flex;
+  flex-direction: row;
+  margin: 0px 70px 50px 70px;
+}
+.bank1{
+    height: fit-content;
+    padding: 0px 0px 0px 0px;
+    margin: 50px 10px 0px 30px;
+}
+.bank2{
+    height: fit-content;
+    padding: 0px 0px 0px 0px;
+    margin: 50px 10px 0px 50px;
+}
+.bank3{
+    height: fit-content;
+    padding: 0px 0px 0px 0px;
+    margin: 50px 10px 0px 50px;
+}
+.bank4{
+    height: fit-content;
+    padding: 0px 0px 0px 0px;
+    margin: 50px 10px 0px 50px;
+}
+.bank5{
+    height: fit-content;
+    padding: 0px 0px 0px 0px;
+    margin: 50px 10px 30px 50px;
+}
+
+
+.tit{
+    color: rgb(255, 255, 255);
+    
+}
+.navbar {
+    width: 100%;
+    height: 70px;
+    background-color: rgb(28, 28, 28);
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    /* margin-bottom: 0%; */
+    position: sticky;
+    margin-bottom: 2%;
+  }
+  .mn{
+    margin-left:14px;
+  }
