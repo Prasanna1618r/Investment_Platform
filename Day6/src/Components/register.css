@@ -1,0 +1,81 @@
+.auth-form-container{
+  text-align: center;
+  display: flex;
+  min-height: 98vh;
+  align-items: center;
+  justify-content: center;
+  color: rgb(254, 253, 253);
+  background-image: url("C:\Users\prasa\OneDrive\Desktop\invest\src\bgimage2.jpg");
+  background-attachment: fixed;
+}
+
+.register-form {
+  display:block;
+  flex-direction: column;
+  font-size: 120%;
+  margin: 0px 20px 0px 0px;
+}
+
+.lab{
+  font-size: 120%;
+  margin-right: 3%;
+}
+
+@media screen and (min-width: 600px) {
+  .auth-form-container {
+    padding:15px 0px 0px 0px;
+  }
+}
+label {
+  text-align: left;
+  padding: 0.25rem 0;
+}
+
+input {
+  margin: 0.5rem 0;
+  padding: 1rem;
+  border: none;
+  border-radius: 10px;
+  margin-right: 10%;
+}
+
+.lab1 {
+  margin: 0.5rem 0;
+  padding: 15px 20px 15px 10px;
+  border: none;
+  border-radius: 10px;
+  margin-right: 10%;
+}
+
+button {
+  border: none;
+  background-color: rgb(247, 8, 8);
+  padding: 10px 60px 10px 60px;
+  margin:10px 0px 0px 60px;
+  border-radius: 10px;
+  cursor: pointer;
+  color: #100101;
+}
+
+.link-btn {
+  background: none;
+  color: rgb(255, 255, 255);
+  text-decoration: underline;
+}
+
+.pb{
+  padding: 20px 60px 50px 30px;
+  background: none;
+  color: rgb(255, 255, 255);
+  text-decoration: underline;
+}
+.h2{
+  padding: 10px 0px 0px 20px;
+}
+.l1{
+  padding: 0px 40px 0px 0px;
+}
+.cl{
+  padding: 0px 0px 0px 70px;
+  color:rgb(255, 0, 0) ;
+}

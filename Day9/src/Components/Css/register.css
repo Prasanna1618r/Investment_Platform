@@ -1,0 +1,86 @@
+.auth-form-container{
+  background:url("C:\Users\prasa\OneDrive\Desktop\invest\src\Images\wp3129745-investment-wallpapers.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* text-align: unset; */
+  display: flex;
+  min-height: 100vh;
+  /* align-items:unset ; */
+  /* justify-content: unset; */
+  /* color: white; */
+}
+
+.register-form {
+  display: flex;
+  flex-direction: column;
+  margin: 0px 0px 0px 0px;
+}
+
+.lab{
+  font-size: 100%;
+  margin:0px 250px 0px 850px;
+}
+
+
+label {
+  /* text-align: left; */
+  margin: 0px 350px 0px 0px;
+  padding: 0px 0px 0px 0px;
+  color: white;
+}
+
+input {
+  margin: 10px 280px 10px 850px;
+  padding: 10px 20px 10px 20px;
+  border: none;
+  border-radius: 10px;
+}
+
+.lab1 {
+    margin: 0px 350px 0px 0px;
+    padding: 0px 0px 0px 0px;
+    border: none;
+    border-radius: 10px;
+}
+
+.button2 {
+    border: none;
+    background-color: rgb(135, 93, 234);
+    padding: 10px 10px 10px 10px;
+    border-radius: 10px;
+    cursor: pointer;
+    color: #05000e;
+    margin: 10px 350px 0px 950px;
+}
+.button2:hover{
+  background-color: rgb(237, 9, 245);
+}
+
+/* .link-btn {
+  /* background: none; */
+  /* color: rgb(255, 255, 255); */
+  /* text-decoration: underline; */
+
+.pb{
+  padding: 0px 0px 0px 0px;
+  background: none;
+  margin: 15px 0px 0px 930px;
+  color: white;
+  text-decoration: underline;
+}
+.pb:hover{
+  color:red ;
+  background-color: transparent;
+}
+.h2{
+  padding: 10px 10px 0px 20px;
+  margin: 150px 0px 10px 550px;
+  color: white;
+}
+/* .l1{
+  padding: 0px 40px 0px 0px;
+} */
+/* .cl{
+  padding: 0px 0px 0px 70px;
+  color:rgb(255, 0, 0) ;
+} */
